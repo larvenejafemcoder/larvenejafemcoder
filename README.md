@@ -34,10 +34,10 @@
     <a href="https://www.linkedin.com/in/rinna-ateros-197922253">
         <img width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
     </a>
-    <a href="https://www.facebook.com/profile.php?id=61557123393779&mibextid=LQQJ4d">
+    <a href="https://www.facebook.com/jakang2006/">
         <img width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" />
     </a>
-    <a href="https://www.tiktok.com/@yourusername">
+    <a href="https://www.tiktok.com/@tomcastondev">
         <img width="60px" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/tiktok.svg" />
     </a>
 </div>
