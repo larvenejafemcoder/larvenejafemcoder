@@ -30,7 +30,7 @@
 <div align="left">
     <a href="https://www.linkedin.com/in/rinna-ateros-197922253"><img width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" /></a>
     <a href="https://www.facebook.com/profile.php?id=61557123393779&mibextid=LQQJ4d"><img width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" /></a>
-    <a href="https://www.tiktok.com/@yourusername"><img width="60px" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/tiktok.svg""></a>
+    <a href="https://www.tiktok.com/@yourusername"><img width="60px" src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/svgs/brands/tiktok.svg"></a>
 </div>
 <br>
 
