@@ -2,7 +2,10 @@
 
 ## A Beginner Level Coder 👨🏻‍💻 / Technician
 
-## CEO of Le Concevoir.Co <a href="https://github.com/Le-Concevoir-Co"><img src="https://github.com/itzaRinna/itzaRinna/blob/main/LCC.png" alt="Le Concevoir.Co" width="50" height="50"></a>
+## CEO of Le Concevoir.Co 
+<a href="https://github.com/Le-Concevoir-Co">
+  <img src="https://github.com/itzaRinna/itzaRinna/blob/main/LCC.png" alt="Le Concevoir.Co" width="50" height="50">
+</a>
 
 ## 💻 Known Programming Languages
 <div align="left">
@@ -28,13 +31,19 @@
 
 ## 💻 My Social Media
 <div align="left">
-    <a href="https://www.linkedin.com/in/rinna-ateros-197922253"><img width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" /></a>
-    <a href="https://www.facebook.com/profile.php?id=61557123393779&mibextid=LQQJ4d"><img width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" /></a>
-    <a href="https://www.tiktok.com/@yourusername"><img width="60px" src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/svgs/brands/tiktok.svg" /></a>
+    <a href="https://www.linkedin.com/in/rinna-ateros-197922253">
+        <img width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
+    </a>
+    <a href="https://www.facebook.com/profile.php?id=61557123393779&mibextid=LQQJ4d">
+        <img width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" />
+    </a>
+    <a href="https://www.tiktok.com/@yourusername">
+        <img width="60px" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/tiktok.svg" />
+    </a>
 </div>
 <br>
 
 ## Most Used Programming Languages
 <div>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=true&layout=compact&card_width=500&langs_count=18&theme=dracula&hide_border=true&username=tomkancaston&hide=html,css,yacc,scss,makefile,scala,supercollider,cmake,svelte,dockerfile,gml,shell,rust,go,python,less,c,java,javascript,typescript,gdscript" height="275" alt="languages graph"  />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=true&layout=compact&card_width=500&langs_count=18&theme=dracula&hide_border=true&username=tomkancaston&hide=html,css,yacc,scss,makefile,scala,supercollider,cmake,svelte,dockerfile,gml,shell,rust,go,python,less,c,java,javascript,typescript,gdscript" height="275" alt="languages graph" />
 </div>
