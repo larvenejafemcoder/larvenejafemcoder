@@ -40,6 +40,10 @@
     <a href="https://www.tiktok.com/@tomcastondev">
         <img width="60px" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/tiktok.svg" />
     </a>
+    <a href="https://discordapp.com/users/1217033767588331521" target="_blank" rel="noopener noreferrer">
+      <img width="60px" src="https://cdn.worldvectorlogo.com/logos/discord-6.svg" />
+    </a>
+
 </div>
 <br>
 
