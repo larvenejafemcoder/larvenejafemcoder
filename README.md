@@ -49,5 +49,5 @@
 
 ## Most Used Programming Languages
 <div>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=true&layout=compact&card_width=500&langs_count=18&theme=dracula&hide_border=true&username=tomkancaston&hide=html,css,yacc,scss,makefile,scala,supercollider,cmake,svelte,dockerfile,gml,shell,rust,go,python,less,c,java,javascript,typescript,gdscript" height="275" alt="languages graph" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=true&layout=compact&card_width=500&langs_count=2&theme=dracula&hide_border=true&username=tomkancaston&hide=html,css,yacc,scss,makefile,scala,supercollider,cmake,svelte,dockerfile,gml,shell,rust,go,python,less,c,java,javascript,typescript,gdscript" height="275" alt="languages graph" />
 </div>
