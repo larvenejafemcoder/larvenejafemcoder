@@ -4,7 +4,7 @@
 
 ## CEO of Le Concevoir.Co 
 <a href="https://github.com/Le-Concevoir-Co">
-  <img src="https://github.com/itzaRinna/itzaRinna/blob/main/LCC.png" alt="Le Concevoir.Co" width="50" height="50">
+  <img src="https://github.com/itzaRinna/itzaRinna/blob/main/LCC.jpeg" alt="Le Concevoir.Co" width="50" height="50">
 </a>
 
 ## 💻 Known Programming Languages
