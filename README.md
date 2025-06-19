@@ -32,7 +32,7 @@
     <a href="https://www.facebook.com/jakang2006/">
         <img width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" />
     </a>
-    <a href="https://www.tiktok.com/@tomcastondev">
+    <a href="https://www.tiktok.com/@larvenejafem">
         <img width="60px" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/tiktok.svg" />
     </a>
     <a href="https://discordapp.com/users/1217033767588331521" target="_blank" rel="noopener noreferrer">
