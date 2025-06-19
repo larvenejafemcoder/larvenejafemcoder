@@ -2,11 +2,6 @@
 
 ## A Beginner Level Coder 👨🏻‍💻 / Technician
 
-## CEO of Le Concevoir.Co 
-<a href="https://github.com/Le-Concevoir-Co">
-  <img src="https://github.com/itzaRinna/itzaRinna/blob/main/LCC.jpeg" alt="Le Concevoir.Co" width="75" height="75">
-</a>
-
 ## 💻 Known Programming Languages
 <div align="left">
     <a href="https://skillicons.dev">
