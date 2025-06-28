@@ -26,19 +26,9 @@
 
 ## 💻 My Social Media
 <div align="left">
-    <a href="https://www.linkedin.com/in/rinna-ateros-197922253">
-        <img width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
+    <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=twitch,youtube,discord,twitter,tiktok">
     </a>
-    <a href="https://www.facebook.com/jakang2006/">
-        <img width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" />
-    </a>
-    <a href="https://www.tiktok.com/@larvenejafem">
-        <img width="60px" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/tiktok.svg" />
-    </a>
-    <a href="https://discordapp.com/users/1217033767588331521" target="_blank" rel="noopener noreferrer">
-      <img width="60px" src="https://cdn.worldvectorlogo.com/logos/discord-6.svg" />
-    </a>
-
 </div>
 <br>
 
