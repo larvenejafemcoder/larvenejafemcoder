@@ -19,7 +19,7 @@
 ## 💻 Operating System - Linux distributions
 <div align="left">
     <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=windows,ubuntu,mint">
+        <img src="https://skillicons.dev/icons?i=windows,debian,arch">
     </a>
 </div>
 <br>
