@@ -12,7 +12,7 @@
 ## 💻 Applications I Use
 <div align="left">
     <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=git,github,visualstudio,vscode">
+        <img src="https://skillicons.dev/icons?i=git,github,visualstudio,vscode,clion,rider">
     </a>
 </div>
 
@@ -25,11 +25,7 @@
 <br>
 
 ## 💻 My Social Media
-<div align="left">
-    <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=twitch,youtube,discord,twitter,tiktok">
-    </a>
-</div>
+[![Website](https://img.shields.io/badge/MySite-larvene.dev-orange?style=flat-square&logo=firefox-browser)](https://larvenejafemabout.netlify.app/)
 <br>
 
 ## Most Used Programming Languages
