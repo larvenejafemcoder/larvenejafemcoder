@@ -11,18 +11,25 @@
 
 ## 🧁 About Me
 
-- 💡 Curious learner with a love for Linux, code, and cyber shenanigans  
-- 🧠 Fiddling with bootloaders, malware labs, and low-level bits  
-- 🌈 Cybersec but pastel-core  
-- 💬 I speak code, caffeine, and terminal
+- 🕹️ Exploring indie game development with Python (Pygame, Godot plans maybe?)
+- 💡 Background in scripting, desktop tools, and reverse engineering
+- 🧠 Took a 2-year break (2023–2025) from dev, now back in the code zone
+- 🧃 Cybersec meets cotton candy vibes
 
 ---
 
-## 🛠️ Tools I Use
+## ⌨️ Past Tech Stack (now reviving)
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=cpp,c,python,bash" />
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,clion,rider,visualstudio" />
+  <img src="https://skillicons.dev/icons?i=python,js,ts,cs,cpp" />
+</div>
+
+---
+
+## 🛠️ Current Toolset
+
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,clion,visualstudio,bash" />
   <img src="https://skillicons.dev/icons?i=linux,debian,arch,windows" />
 </div>
 
@@ -33,6 +40,15 @@
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=larvenejafemcoder&hide_title=true&layout=compact&langs_count=6&theme=tokyonight&hide_border=true&card_width=450" height="200" />
 </div>
+
+---
+
+## 🎮 Indie Game Dev Notes
+
+- 🧸 Focus: 2D game engines & scripting logic
+- 🔤 Languages: Python (Pygame), some past Unity/C#  
+- 🪄 Design: Low-poly, pixel art, or dreamy glitchcore aesthetics  
+- 🎯 Goal: Learn by shipping tiny broken games 💥
 
 ---
 
@@ -52,8 +68,9 @@
 <details>
 <summary><strong>🫧 CURRENT FOCUS</strong></summary>
 
-- 🔍 Reverse engineering + intro binary exploitation  
-- 💻 Hardened VMs for malware + netsec testing  
-- 🧼 De-bloating operating systems (especially Windows)  
-- 🦊 Minimal tools, maximal paranoia  
+- 🧪 Hardened VMs for malware + netsec testing  
+- 🎮 Learning Pygame & game loops  
+- 💻 Revisiting past stacks with more discipline  
+- 🔍 Trying reverse engineering + exploit dev  
+- 🦊 Privacy-focused workflows  
 </details>
