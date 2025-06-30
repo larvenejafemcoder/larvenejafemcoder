@@ -1,38 +1,58 @@
-# Hi 👋, I'm Larvene Jafem 자 깡 
+<h1 align="center">👋 Hi, I'm <strong>Larvene Jafem</strong> 자 깡</h1>
+<h3 align="center">a.k.a. <code>J01K3rn9lGh0st</code></h3>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Role-Technician-blue?style=flat-square&logo=linux" />
+  <img src="https://img.shields.io/badge/Level-Beginner%20Coder-brightgreen?style=flat-square&logo=codeforces" />
+  <img src="https://img.shields.io/badge/Focus-Cybersecurity-critical?style=flat-square&logo=gnu-privacy-guard" />
+</p>
 
 ---
 
-# Or you could call me as J01K3rn9lGh0st
+## 💼 ABOUT ME
+- 🧠 Tech enthusiast with an interest in **low-level systems**, **C++**, and **security tools**  
+- ⚙️ Learning how things work from the kernel up  
+- 📡 Currently tinkering with Linux, CLI tools, and VM labs
 
-## A Beginner Level Coder 👨🏻‍💻 / Technician
+---
 
-## 💻 Known Programming Languages
+## 🧰 TOOLBOX & TECH STACK
+
 <div align="left">
-    <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=cpp">
-    </a>
+  <img src="https://skillicons.dev/icons?i=cpp,c,python,bash" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,clion,rider,visualstudio" />
+  <img src="https://skillicons.dev/icons?i=linux,debian,arch,windows" />
 </div>
 
-## 💻 Applications I Use
+---
+
+## 🗂️ MOST USED LANGUAGES
+
 <div align="left">
-    <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=git,github,visualstudio,vscode,clion,rider">
-    </a>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=true&layout=compact&card_width=450&langs_count=6&theme=gruvbox&hide_border=true&username=larvenejafemcoder" height="200" />
 </div>
 
-## 💻 Operating System - Linux distributions
-<div align="left">
-    <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=windows,debian,arch">
-    </a>
-</div>
-<br>
+---
 
-## 💻 My Social Media
-[![Website](https://img.shields.io/badge/MySite-larvene.dev-orange?style=flat-square&logo=firefox-browser)](https://larvenejafemabout.netlify.app/)
-<br>
+## 🌐 CONNECT WITH ME
 
-## Most Used Programming Languages
-<div>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=true&layout=compact&card_width=500&langs_count=4&theme=dracula&hide_border=true&username=larvenejafemcoder&hide=" height="275" alt="languages graph" />
-</div>
+<p>
+  <a href="https://larvenejafemabout.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/badge/My%20Website-larvene.dev-orange?style=flat-square&logo=firefox-browser" />
+  </a>
+  <a href="https://github.com/larvenejafemcoder" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-larvenejafemcoder-black?style=flat-square&logo=github" />
+  </a>
+  <!-- Add more as needed -->
+</p>
+
+---
+
+<details>
+<summary><strong>🔒 CURRENT FOCUS</strong></summary>
+
+- Setting up **air-gapped VMs** for secure development  
+- Learning reverse engineering and binary exploitation  
+- Exploring open-source alternatives to commercial tools  
+- Minimizing telemetry and maximizing privacy  
+</details>
