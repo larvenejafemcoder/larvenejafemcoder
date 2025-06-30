@@ -1,22 +1,24 @@
-<h1 align="center">👋 Hi, I'm <strong>Larvene Jafem</strong> 자 깡</h1>
-<h3 align="center">a.k.a. <code>J01K3rn9lGh0st</code></h3>
+<h1 align="center">🎀 Larvene Jafem 자 깡</h1>
+<h3 align="center"><code>aka J01K3rn9lGh0st</code></h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Role-Technician-blue?style=flat-square&logo=linux" />
-  <img src="https://img.shields.io/badge/Level-Beginner%20Coder-brightgreen?style=flat-square&logo=codeforces" />
-  <img src="https://img.shields.io/badge/Focus-Cybersecurity-critical?style=flat-square&logo=gnu-privacy-guard" />
+  <img src="https://img.shields.io/badge/🧠_Role-Technician-ffb7e0?style=flat-square" />
+  <img src="https://img.shields.io/badge/🎓_Level-Beginner_Coder-ffccf9?style=flat-square" />
+  <img src="https://img.shields.io/badge/🔐_Focus-Cybersecurity-bdb2ff?style=flat-square" />
 </p>
 
 ---
 
-## 💼 ABOUT ME
-- 🧠 Tech enthusiast with an interest in **low-level systems**, **C++**, and **security tools**  
-- ⚙️ Learning how things work from the kernel up  
-- 📡 Currently tinkering with Linux, CLI tools, and VM labs
+## 🧁 About Me
+
+- 💡 Curious learner with a love for Linux, code, and cyber shenanigans  
+- 🧠 Fiddling with bootloaders, malware labs, and low-level bits  
+- 🌈 Cybersec but pastel-core  
+- 💬 I speak code, caffeine, and terminal
 
 ---
 
-## 🧰 TOOLBOX & TECH STACK
+## 🛠️ Tools I Use
 
 <div align="left">
   <img src="https://skillicons.dev/icons?i=cpp,c,python,bash" />
@@ -26,33 +28,32 @@
 
 ---
 
-## 🗂️ MOST USED LANGUAGES
+## 🍡 Language Usage (Top Langs)
 
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=true&layout=compact&card_width=450&langs_count=6&theme=gruvbox&hide_border=true&username=larvenejafemcoder" height="200" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=larvenejafemcoder&hide_title=true&layout=compact&langs_count=6&theme=tokyonight&hide_border=true&card_width=450" height="200" />
 </div>
 
 ---
 
-## 🌐 CONNECT WITH ME
+## 🌸 Social Links
 
 <p>
-  <a href="https://larvenejafemabout.netlify.app/" target="_blank">
-    <img src="https://img.shields.io/badge/My%20Website-larvene.dev-orange?style=flat-square&logo=firefox-browser" />
+  <a href="https://larvenejafemabout.netlify.app/">
+    <img src="https://img.shields.io/badge/My_Site-larvene.dev-ffc6ff?style=flat-square&logo=firefox-browser" />
   </a>
-  <a href="https://github.com/larvenejafemcoder" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-larvenejafemcoder-black?style=flat-square&logo=github" />
+  <a href="https://github.com/larvenejafemcoder">
+    <img src="https://img.shields.io/badge/GitHub-larvenejafemcoder-cdb4db?style=flat-square&logo=github" />
   </a>
-  <!-- Add more as needed -->
 </p>
 
 ---
 
 <details>
-<summary><strong>🔒 CURRENT FOCUS</strong></summary>
+<summary><strong>🫧 CURRENT FOCUS</strong></summary>
 
-- Setting up **air-gapped VMs** for secure development  
-- Learning reverse engineering and binary exploitation  
-- Exploring open-source alternatives to commercial tools  
-- Minimizing telemetry and maximizing privacy  
+- 🔍 Reverse engineering + intro binary exploitation  
+- 💻 Hardened VMs for malware + netsec testing  
+- 🧼 De-bloating operating systems (especially Windows)  
+- 🦊 Minimal tools, maximal paranoia  
 </details>
