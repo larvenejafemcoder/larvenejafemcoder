@@ -21,7 +21,7 @@
 ## ⌨️ Past Tech Stack (now reviving)
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=python,js,ts,cs,cpp" />
+  <img src="https://skillicons.dev/icons?i=python,js,ts,cs,cpp,c" />
 </div>
 
 ---
