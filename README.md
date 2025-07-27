@@ -4,7 +4,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/🧠_Role-Technician-ffb7e0?style=flat-square" />
   <img src="https://img.shields.io/badge/🎓_Level-Beginner_Coder-ffccf9?style=flat-square" />
-  <img src="https://img.shields.io/badge/🔐_Focus-Cybersecurity-bdb2ff?style=flat-square" />
+  <img src="https://img.shields.io/badge/🔐_Focus-Engineering-bdb2ff?style=flat-square" />
 </p>
 
 ---
@@ -13,7 +13,7 @@
 
 - 🕹️ Exploring indie game development with Python (Pygame, Godot plans maybe?)
 - 💡 Background in scripting, desktop tools, and reverse engineering
-- 🧠 Took a 2-year break (2023–2025) from dev, now back in the code zone
+- 🧠 Took a 2-year break (2022–2025) from dev, now back in the code zone
 - 🧃 Cybersec meets cotton candy vibes
 
 ---
