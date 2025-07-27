@@ -29,21 +29,24 @@
   <img src="https://skillicons.dev/icons?i=c,cpp,cs,python" />
 </div>
 
----
 
 ## 🛠️ Current Ops Stack
 
-### > tools engage \[git github vscode bash]\
+### > Tools Engage `[ git · github · vscode · bash · sublime ]`
 
 <div align="left">
   <img src="https://skillicons.dev/icons?i=git,github,vscode,sublime,bash" />
 </div>
 
-### > os boot \[arch debian windows]\
+---
+
+### > Familiar Operating Systems `[ arch · debian · windows ]`  
+#### ⚠️ Disclaimer: *Familiar, NOT poweruser (yet)* 😤
 
 <div align="left">
   <img src="https://skillicons.dev/icons?i=linux,debian,arch,windows" />
 </div>
+
 
 
 ## 🍡 Language Radar
