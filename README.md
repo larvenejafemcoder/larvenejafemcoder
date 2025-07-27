@@ -46,3 +46,18 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=larvenejafemcoder&hide_title=true&layout=compact&langs_count=6&theme=jolly&hide_border=true&card_width=450" height="200" />
 </div>
 
+## 🧾 Past Achievements 
+
+```
+- 🧠 Survived the 2022–2025 productivity black hole  
+- 🔍 Reverse engineered small binaries (internal only)   
+- ✍️ Wrote thousands of lines of tooling/scripting using Powershell and Bash  
+- 🌐 Maintained multi-dialect Vietnamese/English/Chinese/Tekchew fluency  
+- 🌍 **English Language Assessment (Independent)**  
+  - **Time Logged**: 3000+ hours (2016–2024)  
+  - **Strong Domains**: Academic, conversational, slang, meme culture, debate, software engineering  
+  - **Result**: Fluent+ with C2-level comprehension & code-switch mastery  
+- 👻 Operated anonymously under various codenames in online dev/CTF scenes  
+- 🦾 Arch automation pipeline
+- 🤖 Fully Backed up in Every Workspaces
+```
