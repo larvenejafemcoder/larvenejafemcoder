@@ -41,7 +41,7 @@
 ---
 
 ### > Familiar Operating Systems `[ arch · debian · windows ]`  
-#### ⚠️ Disclaimer: *Familiar, NOT poweruser (yet)* 😤
+#### ⚠️ Disclaimer: *Familiar, NOT poweruser (yet)*
 
 <div align="left">
   <img src="https://skillicons.dev/icons?i=linux,debian,arch,windows" />
