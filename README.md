@@ -44,9 +44,8 @@
 
 ## 🍡 Language Radar
 
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=larvenejafemcoder&hide_title=true&layout=compact&langs_count=6&theme=jolly&hide_border=true&card_width=450" height="200" />
-</div>
+![larvenejafemcoder's Stats](https://github-readme-stats.vercel.app/api?username=larvenejafemcoder&theme=vue-dark&show_icons=true&hide_border=false&count_private=true)
+
 
 ## 🧾 Past Achievements 
 
