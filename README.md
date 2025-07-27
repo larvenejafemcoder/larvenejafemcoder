@@ -52,7 +52,8 @@
 ## 🧾 Past Achievements 
 
 ```
-- 🧠 Survived the 2022–2025 productivity black hole  
+- 🧠 Survived the 2022–2025 productivity black hole
+- 🧠 Survived the 4 years of Clinical Depression
 - 🔍 Reverse engineered small binaries (internal only)   
 - ✍️ Wrote thousands of lines of tooling/scripting using Powershell and Bash  
 - 🌐 Maintained multi-dialect Vietnamese/English/Chinese/Tekchew fluency  
