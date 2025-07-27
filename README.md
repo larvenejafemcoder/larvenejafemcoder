@@ -37,15 +37,12 @@
 
 ## 🛠️ Current Ops Stack
 
-```
-
 > tools engage \[git github vscode clion vs bash]
 > os boot \[arch debian windows]
 <div align="left">
   <img src="https://skillicons.dev/icons?i=git,github,vscode,clion,visualstudio,bash" />
   <img src="https://skillicons.dev/icons?i=linux,debian,arch,windows" />
 </div>
-
 
 ## 🍡 Language Radar
 
@@ -59,11 +56,5 @@
 
 <details>
 <summary><strong>🫧 CURRENT DIRECTIVES</strong></summary>
-
-- 🧪 Fortify VMs for malware/netsec  
-- 🎮 Pygame loop mastery  
-- 💻 Reforging old stacks, stricter ops discipline  
-- 🔍 Binary RE + exploit testing  
-- 🦊 No telemetry. No compromise.
 </details>
 ```
