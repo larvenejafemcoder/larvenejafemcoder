@@ -46,7 +46,7 @@
 
 ![larvenejafemcoder's Stats](https://github-readme-stats.vercel.app/api?username=larvenejafemcoder&theme=vue-dark&show_icons=true&hide_border=false&count_private=true)
 ![larvenejafemcoder's Streak](https://github-readme-streak-stats.herokuapp.com/?user=larvenejafemcoder&theme=vue-dark&hide_border=false)
-![larvenejafemcoder's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=larvenejafemcoder&theme=vue-dark&show_icons=true&hide_border=false&layout=compact)
+![larvenejafemcoder's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=larvenejafemcoder&theme=vue-dark&show_icons=true&hide_langs_count=12_border=true&layout=compact)
 
 
 ## 🧾 Past Achievements 
