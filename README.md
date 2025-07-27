@@ -1,5 +1,5 @@
 # 🪐 KernelGhost  
-## Head Commander, Union of Space Marine Intelligence (USMI)
+## 🚀 Head Commander, Union of Space Marine Intelligence (USMI)
 ```markdown
 
 ╭────────────────────────────────────────────╮
@@ -14,10 +14,12 @@
 
 ## 🧁 Mission Brief
 
+```
 - 🕹️ Developing Operations using C (💣 engine: classified)  
-- 💡 Tactical background: scripting, binary inspection  
+- 💡 Tactical background: scripting, binary inspection, kernel-level system messing  
 - 🧠 Code stasis: 2022–2025 → Active again  
 - 🧃 Cybersec with glitchcore aftertaste
+```
 
 ---
 
