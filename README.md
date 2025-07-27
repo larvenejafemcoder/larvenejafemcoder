@@ -1,14 +1,11 @@
 # KernelGhost
 ## Head Commander of Union of Space Marine Intelligence (USMI)
 
-
 <p align="center">
-  <img src="https://img.shields.io/badge/🧠_Role-Technician-ffb7e0?style=flat-square" />
-  <img src="https://img.shields.io/badge/🎓_Level-Beginner_Coder-ffccf9?style=flat-square" />
+  <img src="https://img.shields.io/badge/🧠_Role-Operator-ffb7e0?style=flat-square" />
+  <img src="https://img.shields.io/badge/🎓_Level-BattleReady-ffccf9?style=flat-square" />
   <img src="https://img.shields.io/badge/🔐_Focus-Engineering-bdb2ff?style=flat-square" />
 </p>
-
----
 
 ## 🧁 About Me
 
