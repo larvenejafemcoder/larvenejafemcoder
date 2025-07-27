@@ -34,12 +34,13 @@
 ## 🛠️ Current Ops Stack
 
 > tools engage \[git github vscode clion vs bash]
-> os boot \[arch debian windows]
 <div align="left">
   <img src="https://skillicons.dev/icons?i=git,github,vscode,sublime,bash" />
+</div>
+> os boot \[arch debian windows]
+<div align="left">
   <img src="https://skillicons.dev/icons?i=linux,debian,arch,windows" />
 </div>
-
 ---
 
 ## 🍡 Language Radar
