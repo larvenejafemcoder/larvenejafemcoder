@@ -1,5 +1,6 @@
-<h1 align="center">🎀 Larvene Jafem 자 깡</h1>
-<h3 align="center"><code>aka J01K3rn9lGh0st</code></h3>
+# KernelGhost
+## Head Commander of Union of Space Marine Intelligence (USMI)
+
 
 <p align="center">
   <img src="https://img.shields.io/badge/🧠_Role-Technician-ffb7e0?style=flat-square" />
