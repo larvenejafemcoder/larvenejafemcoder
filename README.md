@@ -26,7 +26,7 @@
 ## ⌨️ Former Arsenal (Reactivating...)
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=c,cpp,cs,python" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,cs" />
 </div>
 
 
