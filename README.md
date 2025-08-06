@@ -1,29 +1,15 @@
-Absolutely, KernelGhost 🪐 — I can give this a more professional polish while keeping your **identity, achievements, and unique energy** intact. The new version will be:
-
-* 💼 Clean and structured
-* 🧠 Focused on your **skills, tools, and credibility**
-* 🔍 Readable for recruiters, collaborators, or open source folks
-* 🛡️ Still “you” — with a tactical/military intelligence theme, just toned to **professional-dark sci-fi**
-
----
-
-### 🧠 Final Result (Professional Markdown Profile)
-
-````markdown
 # 🪐 KernelGhost  
 ## Head Commander · Union of Space Marine Intelligence (USMI)  
 > Engineering Operator • System Tactician • Code-First Problem Solver
 
----
 
 ## 🧾 Profile Summary
-
+````
 🎓 **Role:** Engineering-Focused Operator  
 🛠️ **Core Skills:** Software Engineering, Reverse Engineering, Automation  
 🌐 **Languages:** English (C2+), Vietnamese, Mandarin, Cantonese  
 🧬 **Mindset:** Precision. Resilience. Self-actualized learning.
-
----
+````
 
 ## 🔧 Tech Arsenal
 
@@ -39,14 +25,10 @@ Absolutely, KernelGhost 🪐 — I can give this a more professional polish whil
 `Arch Linux` · `Debian` · `Windows`  
 <img src="https://skillicons.dev/icons?i=linux,arch,debian,windows" height="30"/>
 
----
-
 ## 📊 Language Radar
 
 ![larvenejafemcoder's Stats](https://github-readme-stats.vercel.app/api?username=larvenejafemcoder&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=larvenejafemcoder&theme=vue-dark&layout=compact&hide_border=true&hide=html,css,shell,makefile,javascript,typescript)
-
----
 
 ## 🧠 Notable Achievements
 
