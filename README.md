@@ -15,7 +15,7 @@
 
 ### ⚙️ Primary Languages  
 `C++` `C#` `Rust` `Python`  
-<img src="https://skillicons.dev/icons?i=cpp,cs,rust,python" height="30"/>
+<img src="https://skillicons.dev/icons?i=cpp,cs,rust,python" height="50"/>
 
 ### 🧰 Tools of Operation  
 `Git` · `GitHub` · `VS Code` · `Bash` · `Sublime Text`  
