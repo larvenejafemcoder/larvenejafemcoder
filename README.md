@@ -45,7 +45,7 @@
 
 ### 🌐 Language Mastery
 - **Independent English Fluency (C2+)**
-  - Logged 3000+ hrs (2016–2024)
+  - Logged 4000+ hrs (2009–2025)
   - Domains: Academic, technical, debate, meme-lingo
   - Multilingual code-switching (VN 🇻🇳 | EN 🇬🇧 | 中文 🇨🇳🇭🇰)
 
