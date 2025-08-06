@@ -71,3 +71,4 @@ For licensing requests, custom agreements, or questions:
 - GitHub: [@kernelghost](https://github.com/larvenejafemcoder)
 
 ---
+![Larvender License](https://img.shields.io/badge/license-MIT-purple?style=for-the-badge&logoColor=white)
