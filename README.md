@@ -40,7 +40,7 @@
 ## 🍡 Language Radar
 
 ![larvenejafemcoder's Stats](https://github-readme-stats.vercel.app/api?username=larvenejafemcoder&theme=vue-dark&show_icons=true&hide_border=false&count_private=true)
-![larvenejafemcoder's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=larvenejafemcoder&theme=vue-dark&layout=compact&hide=javascript,typescript,css,scss,html,less,yacc,shell,makefile,game%20maker%20language,gcc%20machine%20description,ampl,swig,stylus,astro,svelte,assembly,gaml,go,fortran,ada,gml,yy,d,gdscript&hide_border=false&size_weight=0.5&count_weight=0.5)
+![larvenejafemcoder's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=larvenejafemcoder&theme=vue-dark&layout=compact&hide=javascript,typescript,css,scss,html,less,yacc,shell,makefile,game%20maker%20language,gcc%20machine%20description,ampl,c,swig,stylus,astro,svelte,assembly,gaml,go,fortran,ada,gml,yy,d,gdscript&hide_border=false&size_weight=0.5&count_weight=0.5)
 
 
 ## 🧾 Past Achievements 
