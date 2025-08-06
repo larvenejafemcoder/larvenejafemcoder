@@ -22,7 +22,7 @@
 <img src="https://skillicons.dev/icons?i=git,github,vscode,bash,sublime" height="30"/>
 
 ### 🖥️ Systems Familiarity  
-`Arch Linux` · `Debian` · `Windows`  
+`UNIX based` . `Arch Linux` · `Debian` · `Windows`  
 <img src="https://skillicons.dev/icons?i=linux,arch,debian,windows" height="30"/>
 
 ## 📊 Language Radar
