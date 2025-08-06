@@ -19,11 +19,11 @@
 
 ### 🧰 Tools of Operation  
 `Git` · `GitHub` · `VS Code` · `Bash` · `Sublime Text`  
-<img src="https://skillicons.dev/icons?i=git,github,vscode,bash,sublime" height="30"/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,bash,sublime" height="50"/>
 
 ### 🖥️ Systems Familiarity  
 `UNIX based` . `Arch Linux` · `Debian` · `Windows`  
-<img src="https://skillicons.dev/icons?i=linux,arch,debian,windows" height="30"/>
+<img src="https://skillicons.dev/icons?i=linux,arch,debian,windows" height="50"/>
 
 ## 📊 Language Radar
 
