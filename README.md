@@ -4,7 +4,9 @@
 
 ╭────────────────────────────────────────────╮
 │ 🧠 Role: Operator                          │
+|                                             |
 │ 🎓 Level: BattleReady                      │
+|                                             |
 │ 🔐 Focus: Engineering                      │
 ╰────────────────────────────────────────────╯
 
@@ -55,9 +57,9 @@
 - 💾 Maintains full cloud/offline backups across all workspaces
 
 📚 GCSE Stats Drop (Close but Yeah):
-> 📐 Math:       8/9 → Math-sniper certified ✅  
-> 💬 English:    9.75/10 → Linguistic Demon 😈  
-> 📖 Literature: 7.75/10 → Reads like a war poet 📜💥
+> 📐 Math:       8/9 
+> 💬 English:    9.75/10 
+> 📖 Literature: 7.75/10
 
 🈳 LINGUISTIC OPS
 - 🌐 Maintained fluency in Vietnamese, English, Mandarin + Cantonese
