@@ -28,7 +28,7 @@
 ## 📊 Language Radar
 
 ![larvenejafemcoder's Stats](https://github-readme-stats.vercel.app/api?username=larvenejafemcoder&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=larvenejafemcoder&theme=vue-dark&layout=compact&hide_border=true&hide=html,css,shell,makefile,javascript&width=1200&height=800)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=larvenejafemcoder&theme=vue-dark&layout=donut&hide_border=true&hide=html,css,shell,makefile,javascript&width=1200&height=800)
 
 ## 🧠 Notable Achievements
 
