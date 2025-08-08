@@ -14,7 +14,7 @@
 ## 🔧 Tech Arsenal
 
 ### ⚙️ Primary Languages  
-`C++`  .  `C#`  .  `Rust`  .  `Python`  
+`C++`   .   `C#`   .   `Rust`  .   `Python`  
 <img src="https://skillicons.dev/icons?i=cpp,cs,rust,python" height="50"/>
 
 ### 🧰 Tools of Operation  
