@@ -24,9 +24,11 @@
 ### 🖥️ Systems Familiarity  
 <img src="https://skillicons.dev/icons?i=linux,arch,ubuntu,mint,debian,windows" height="50"/>
 
-#### ⚙️ Tech Stacks - C++  
-  <img src="https://skillicons.dev/icons?i=cpp,qt,gtk" height="50"/>
-
+#### ⚙️ Tech Stacks - C/C++  
+  <img src="https://skillicons.dev/icons?i=cpp,qt,gtk,neovim,vscode" height="50"/>
+  
+#### ⚙️ Tech Stacks - C#  
+  <img src="https://skillicons.dev/icons?i=csharp,visualstudio,vscode" height="50"/>
 ## 📊 Language Radar
 
 ![larvenejafemcoder's Stats](https://github-readme-stats.vercel.app/api?username=larvenejafemcoder&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
