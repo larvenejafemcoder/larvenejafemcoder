@@ -24,14 +24,14 @@
 ### 🖥️ Systems Familiarity  
 <img src="https://skillicons.dev/icons?i=linux,arch,redhat,ubuntu,mint,debian,windows" height="50"/>
 
-#### ⚙️ Tech Stacks - C/C++  
+#### ⚙️ Tech Stacks - C/C++ Clis - App Development 
   <img src="https://skillicons.dev/icons?i=cpp,qt,gtk,neovim,vscode,visualstudio,sublime,clion" height="35"/>
   
-#### ⚙️ Tech Stacks - C#  
+#### ⚙️ Tech Stacks - C# App Development  
   <img src="https://skillicons.dev/icons?i=cs,dotnet,visualstudio,vscode,unity,godot,sublime,rider" height="35"/>
 
-#### ⚙️ Tech Stacks - Webs DEv  
-  <img src="https://skillicons.dev/icons?i=react,typescript,mongoldb,node,rust," height="35"/>
+#### ⚙️ Tech Stacks - Web Development  
+  <img src="https://skillicons.dev/icons?i=react,typescript,mongodb,node,rust" height="35" alt="Tech stack icons" />
   
 ## 📊 Language Radar
 
