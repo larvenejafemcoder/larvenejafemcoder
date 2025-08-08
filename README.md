@@ -19,11 +19,11 @@
 
 ### 🧰 Tools of Operation  
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,bash,sublime" height="50"/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,clion,pycharm,rider,neovim,bash,sublime" height="50"/>
 
 ### 🖥️ Systems Familiarity  
 
-<img src="https://skillicons.dev/icons?i=linux,arch,ubuntu,mint,debian,gnome,kde,cinamon,windows" height="50"/>
+<img src="https://skillicons.dev/icons?i=linux,arch,ubuntu,mint,debian,windows" height="50"/>
 
 ## 📊 Language Radar
 
