@@ -25,10 +25,10 @@
 <img src="https://skillicons.dev/icons?i=linux,arch,redhat,ubuntu,mint,debian,windows" height="50"/>
 
 #### ⚙️ Tech Stacks - C/C++  
-  <img src="https://skillicons.dev/icons?i=cpp,qt,gtk,neovim,vscode,visualstudio,sublime" height="35"/>
+  <img src="https://skillicons.dev/icons?i=cpp,qt,gtk,neovim,vscode,visualstudio,sublime,clion" height="35"/>
   
 #### ⚙️ Tech Stacks - C#  
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,visualstudio,vscode,unity,godot,sublime" height="35"/>
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,visualstudio,vscode,unity,godot,sublime,rider" height="35"/>
 ## 📊 Language Radar
 
 ![larvenejafemcoder's Stats](https://github-readme-stats.vercel.app/api?username=larvenejafemcoder&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
