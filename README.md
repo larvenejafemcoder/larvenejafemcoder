@@ -42,7 +42,7 @@
 - 🦾 Maintained Arch-based personal dev environments
 - 💾 Full-stack backup architecture (cloud + local)
 
-### 📚 Academics (GCSE)
+### 📚 Academics (finished GCSE aiming for SAT now)
 - Math: 8/9  
 - English: 9.75/10  
 - Literature: 7.75/10
