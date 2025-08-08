@@ -28,7 +28,7 @@
   <img src="https://skillicons.dev/icons?i=cpp,qt,gtk,neovim,vscode,visualstudio" height="35"/>
   
 #### ⚙️ Tech Stacks - C#  
-  <img src="https://skillicons.dev/icons?i=cs,visualstudio,vscode,unity,godot" height="35"/>
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,visualstudio,vscode,unity,godot" height="35"/>
 ## 📊 Language Radar
 
 ![larvenejafemcoder's Stats](https://github-readme-stats.vercel.app/api?username=larvenejafemcoder&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
