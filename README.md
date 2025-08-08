@@ -13,12 +13,12 @@
 
 ## 🔧 Tech Arsenal
 
-### ⚙️ Primary Languages  
-`C++`   .   `C#`   .   `Rust`  .   `Python`  
+### ⚙️ Primarily Used Languages  
+
 <img src="https://skillicons.dev/icons?i=cpp,cs,rust,python" height="50"/>
 
 ### 🧰 Tools of Operation  
-`Git` · `GitHub` · `VS Code` · `Bash` · `Sublime Text`  
+
 <img src="https://skillicons.dev/icons?i=git,github,vscode,bash,sublime" height="50"/>
 
 ### 🖥️ Systems Familiarity  
