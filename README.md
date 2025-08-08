@@ -31,7 +31,7 @@
 #### ⚙️ C# App Development  
   <img src="https://skillicons.dev/icons?i=cs,dotnet,visualstudio,vscode,unity,godot,sublime,rider" height="35" alt="Tech stack icons"/>
 
-#### ⚙️ Web Development  
+#### ⚙️ Web Development -  ReactRustMERN
   <img src="https://skillicons.dev/icons?i=react,typescript,mongodb,nodejs,rust,vscode" height="35" alt="Tech stack icons" />
   
 #### ⚙️  Ai Chatbox  
