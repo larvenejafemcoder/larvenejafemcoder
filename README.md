@@ -58,9 +58,9 @@
 ## 🧬 KernelGhostOS Diagnostics
 
 ```text
-> Cognitive Kernel: STABLE
+> Cognitive Kernel: CHAOTIC
 > Focus Lock: ENABLED
-> Debug Mode: ALWAYS ON
+> Debug Mode: ENABLED
 > Creative GPU: RTX ∞
 > Boot Log: Ready for deployment
 ````
