@@ -6,7 +6,7 @@
 ## 🧾 Profile Summary
 ````
 🎓 **Role:** Engineering-Focused Operator  
-🛠️ **Core Skills:** Software Engineering, Reverse Engineering, Automation  
+🛠️ **Skill Level:** Beginner-Level, Fresher/Intern
 🌐 **Languages:** English (C2+), Vietnamese, Mandarin, Cantonese  
 🧬 **Mindset:** Precision. Resilience. Self-actualized learning.
 ````
