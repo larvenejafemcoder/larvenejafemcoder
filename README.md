@@ -1,4 +1,4 @@
-# 🪐 KernelGhost  
+# 🪐 C0d3Nam3 - KernelGhost  
 ## Head Commander · Union of Space Marine Intelligence (USMI)  
 > Engineering Operator • System Tactician • Code-First Problem Solver
 
