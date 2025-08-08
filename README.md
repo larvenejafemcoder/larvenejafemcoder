@@ -32,10 +32,10 @@
   <img src="https://skillicons.dev/icons?i=cs,dotnet,visualstudio,vscode,unity,godot,sublime,rider" height="35" alt="Tech stack icons"/>
 
 #### ⚙️ Web Development  
-  <img src="https://skillicons.dev/icons?i=react,typescript,mongodb,nodejs,rust" height="35" alt="Tech stack icons" />
+  <img src="https://skillicons.dev/icons?i=react,typescript,mongodb,nodejs,rust,vscode" height="35" alt="Tech stack icons" />
   
 #### ⚙️  Ai Chatbox  
-  <img src="https://skillicons.dev/icons?i=python,mongodb" height="35" alt="Tech stack icons" />
+  <img src="https://skillicons.dev/icons?i=python,mongodb,vscode,sublime,pycharm" height="35" alt="Tech stack icons" />
   
 ## 📊 Language Radar
 
