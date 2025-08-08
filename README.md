@@ -25,17 +25,17 @@
 <img src="https://skillicons.dev/icons?i=linux,arch,redhat,ubuntu,mint,debian,windows" height="50"/>
 
 ### 🖥️ One's Tech Stack  
-  #### ⚙️ C/C++ Clis - App Development 
-    <img src="https://skillicons.dev/icons?i=cpp,qt,gtk,neovim,vscode,visualstudio,sublime,clion" height="35" alt="Tech stack icons"/>
-    
-  #### ⚙️ C# App Development  
-    <img src="https://skillicons.dev/icons?i=cs,dotnet,visualstudio,vscode,unity,godot,sublime,rider" height="35" alt="Tech stack icons"/>
+#### ⚙️ C/C++ Clis - App Development 
+  <img src="https://skillicons.dev/icons?i=cpp,qt,gtk,neovim,vscode,visualstudio,sublime,clion" height="35" alt="Tech stack icons"/>
   
-  #### ⚙️ Web Development  
-    <img src="https://skillicons.dev/icons?i=react,typescript,mongodb,nodejs,rust" height="35" alt="Tech stack icons" />
-    
-  #### ⚙️  Ai Chatbox  
-    <img src="https://skillicons.dev/icons?i=python,mongodb" height="35" alt="Tech stack icons" />
+#### ⚙️ C# App Development  
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,visualstudio,vscode,unity,godot,sublime,rider" height="35" alt="Tech stack icons"/>
+
+#### ⚙️ Web Development  
+  <img src="https://skillicons.dev/icons?i=react,typescript,mongodb,nodejs,rust" height="35" alt="Tech stack icons" />
+  
+#### ⚙️  Ai Chatbox  
+  <img src="https://skillicons.dev/icons?i=python,mongodb" height="35" alt="Tech stack icons" />
   
 ## 📊 Language Radar
 
