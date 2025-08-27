@@ -35,7 +35,7 @@
   <img src="https://skillicons.dev/icons?i=react,typescript,mongodb,nodejs,rust,vscode" height="35" alt="Tech stack icons" />
   
 #### ⚙️  Ai Chatbox  
-  <img src="https://skillicons.dev/icons?i=python,mongodb,vscode,sublime,pycharm" height="35" alt="Tech stack icons" />
+  <img src="https://skillicons.dev/icons?i=python,mongodb,vscode,sublime,pycharm,neovim" height="35" alt="Tech stack icons" />
   
 ## 📊 Language Radar
 
