@@ -1,86 +1,192 @@
-# 🪐 C0d3Nam3 - KernelGhost (Rogue Engineer)
-## Head Commandette · RedStar Division · Union of Space Marine Intelligence (USMI)  
-> Engineering Operator • System Tactician • Code-First Problem Solver
+# 🪐 C0d3Nam3 - KernelGhost | Rogue Engineer
 
+<div align="center">
 
-## 🧾 Profile Summary
-````
-🎓 **Role:** Engineering-Focused Operator  
-🛠️ **Skill Level:** Beginner-Level, Fresher/Intern
-🌐 **Languages:** English (C2+), Vietnamese, Mandarin, Cantonese  
-🧬 **Mindset:** Precision. Resilience. Self-actualized learning.
-````
+## ⭐ **Head Commandette · RedStar Division · Union of Space Marine Intelligence (USMI)**  
+### **Engineering Operator • System Tactician • Code-First Problem Solver**
 
-## 🔧 Tech Arsenal
-
-### ⚙️ Primarily Used Languages  
-
-<img src="https://skillicons.dev/icons?i=cpp,cs,rust,python" height="50"/>
-
-### 🧰 Tools of Operation  
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,clion,pycharm,rider,neovim,bash,sublime" height="50"/>
-
-### 🖥️ Systems Familiarity  
-<img src="https://skillicons.dev/icons?i=linux,arch,redhat,ubuntu,mint,debian,windows" height="50"/>
-
-### 🖥️ One's Tech Stack  
-#### ⚙️ C/C++ Clis - App Development 
-  <img src="https://skillicons.dev/icons?i=cpp,qt,gtk,neovim,vscode,visualstudio,sublime,clion" height="35" alt="Tech stack icons"/>
-  
-#### ⚙️ C# App Development  
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,visualstudio,vscode,unity,godot,sublime,rider" height="35" alt="Tech stack icons"/>
-
-#### ⚙️ Web Development -  ReactRustMERN
-  <img src="https://skillicons.dev/icons?i=react,typescript,mongodb,nodejs,rust,vscode" height="35" alt="Tech stack icons" />
-  
-#### ⚙️  Ai Chatbox  
-  <img src="https://skillicons.dev/icons?i=python,mongodb,vscode,sublime,pycharm,neovim" height="35" alt="Tech stack icons" />
-  
-## 📊 Language Radar
-
-![larvenejafemcoder's Stats](https://github-readme-stats.vercel.app/api?username=larvenejafemcoder&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=larvenejafemcoder&theme=vue-dark&layout=donut&hide_border=true&hide=html,css,shell,makefile,javascript&width=1200&height=800)
-
-## 🧠 Notable Achievements
-
-### 🎯 Engineering / Ops
-- 🧪 Reverse engineered closed binaries (internal tools)
-- 🔧 Built custom Bash & PowerShell automation pipelines
-- 🦾 Maintained Arch-based personal dev environments
-- 💾 Full-stack backup architecture (cloud + local)
-
-### 📚 Academics (finished GCSE aiming for SAT now)
-- Math: 8/9  
-- English: 9.75/10  
-- Literature: 7.75/10
-
-### 🌐 Language Mastery
-- **Independent English Fluency (C2+)**
-  - Logged 4000+ hrs (2009–2025)
-  - Domains: Academic, technical, debate, meme-lingo
-  - Multilingual code-switching (VN 🇻🇳 | EN 🇬🇧 | 中文 🇨🇳🇭🇰)
+</div>
 
 ---
 
-## 🧬 KernelGhostOS Diagnostics
+## 🎯 **Profile Summary**
+
+<div align="center">
+
+| Role | Skill Level | Languages | Mindset |
+|------|-------------|-----------|---------|
+| **Engineering-Focused Operator** | **Beginner-Level, Fresher/Intern** | **English (C2+), Vietnamese, Mandarin, Cantonese** | **Precision. Resilience. Self-actualized learning.** |
+
+</div>
+
+---
+
+## 🔧 **Tech Arsenal**
+
+### ⚙️ **Primarily Used Languages**
+<div align="center">
+  
+<img src="https://skillicons.dev/icons?i=cpp,cs,rust,python" height="50" alt="C++, C#, Rust, Python"/>
+
+</div>
+
+### 🧰 **Tools of Operation**
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,clion,pycharm,rider,neovim,bash,sublime" height="50" alt="Development Tools"/>
+
+</div>
+
+### 🖥️ **Systems Familiarity**
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=linux,arch,redhat,ubuntu,mint,debian,windows" height="50" alt="Operating Systems"/>
+
+</div>
+
+---
+
+## 🛠️ **Tech Stack Breakdown**
+
+### **C/C++ Application Development**
+<div align="center">
+  
+<img src="https://skillicons.dev/icons?i=cpp,qt,gtk,neovim,vscode,visualstudio,sublime,clion" height="40" alt="C/C++ Stack"/>
+
+</div>
+
+### **C# & .NET Ecosystem**
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=cs,dotnet,visualstudio,vscode,unity,godot,sublime,rider" height="40" alt="C# Stack"/>
+
+</div>
+
+### **Web Development - ReactRustMERN**
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=react,typescript,mongodb,nodejs,rust,vscode" height="40" alt="Web Development Stack"/>
+
+</div>
+
+### **AI & Chatbot Development**
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,mongodb,vscode,sublime,pycharm,neovim" height="40" alt="AI Development Stack"/>
+
+</div>
+
+---
+
+## 📊 **GitHub Analytics**
+
+<div align="center">
+
+### **GitHub Statistics**
+![larvenejafemcoder's Stats](https://github-readme-stats.vercel.app/api?username=larvenejafemcoder&theme=radical&show_icons=true&hide_border=true&count_private=true&show=prs_merged,prs_merged_percentage)
+
+### **Most Used Languages**
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=larvenejafemcoder&theme=radical&layout=compact&hide_border=true&hide=html,css,shell,makefile,javascript&size_weight=0.5&count_weight=0.5)
+
+</div>
+
+---
+
+## 🏆 **Notable Achievements**
+
+### **🎯 Engineering & Operations**
+<table>
+<tr>
+<td width="50%">
+
+- 🧪 **Reverse Engineering**: Closed binary analysis (internal tools)
+- 🔧 **Automation**: Custom Bash & PowerShell pipelines
+- 🦾 **Systems**: Arch-based dev environments
+- 💾 **Infrastructure**: Full-stack backup architecture
+
+</td>
+<td width="50%">
+
+### **📚 Academic Performance**
+- **Mathematics**: 8/9
+- **English**: 9.75/10  
+- **Literature**: 7.75/10
+- **Status**: GCSE completed, targeting SAT
+
+</td>
+</tr>
+</table>
+
+### **🌐 Language Mastery**
+- **English Fluency (C2+)**: 4000+ hours (2009–2025)
+- **Domains**: Academic, technical, debate, multimedia
+- **Multilingual Code-Switching**: VN 🇻🇳 | EN 🇬🇧 | 中文 🇨🇳🇭🇰
+
+---
+
+## 🧬 **KernelGhostOS Diagnostics**
 
 ```text
-> Cognitive Kernel: CHAOTIC
-> Focus Lock: ENABLED
-> Debug Mode: ENABLED
-> Creative GPU: RTX ∞
-> Boot Log: Ready for deployment
-````
+╔═══════════════════════════════════════════════════════╗
+║  KernelGhostOS v2.5.1 | Diagnostics Report            ║
+╠═══════════════════════════════════════════════════════╣
+║  Cognitive Kernel:        [ CHAOTIC ]                 ║
+║  Focus Lock:              [ ENABLED ]                 ║
+║  Debug Mode:              [ ENABLED ]                 ║
+║  Creative GPU:            [ RTX ∞ ]                   ║
+║  System Status:           [ READY FOR DEPLOYMENT ]    ║
+╚═══════════════════════════════════════════════════════╝
+```
 
 ---
 
-## 📮 Contact
+## 📬 **Contact & Links**
 
-For licensing requests, custom agreements, or questions:
+<div align="center">
 
-- Email: `tomkancaston@gmail.com`
-- GitHub: [@kernelghost](https://github.com/larvenejafemcoder)
+### **Connect With Me**
+
+[![Email](https://img.shields.io/badge/Email-tomkancaston%40gmail.com-blue?style=for-the-badge&logo=gmail)](mailto:tomkancaston@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-@kernelghost-black?style=for-the-badge&logo=github)](https://github.com/larvenejafemcoder)
+
+### **License**
+
+![MIT License](https://img.shields.io/badge/license-MIT-purple?style=for-the-badge&logo=opensourceinitiative&logoColor=white)
+
+</div>
 
 ---
-![Larvender License](https://img.shields.io/badge/license-MIT-purple?style=for-the-badge&logoColor=white)
+
+<div align="center">
+
+### **Visitor Count**
+![Visitor Count](https://komarev.com/ghpvc/?username=larvenejafemcoder&color=blueviolet&style=flat-square)
+
+**"Precision in chaos, resilience in failure, growth in challenge."**
+
+</div>
+
+---
+
+<details>
+<summary><b>✨ Quick Stats</b></summary>
+<br>
+
+```yaml
+current_focus:
+  - language: "C++ & Rust"
+  - project: "System-level applications"
+  - learning: "Advanced algorithms"
+  
+next_targets:
+  - "SAT Preparation"
+  - "Open-source contributions"
+  - "Full-stack project completion"
+  
+coding_philosophy: "Build to understand, refactor to master"
+```
+</details>
+
+---
+
+*Last Updated: March 2025 | Profile dynamically generated with ❤️*
