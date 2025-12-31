@@ -74,17 +74,17 @@
 
 <div align="center">
 
-### **📊 Semester Grades & AI Foundation Analysis**
+### **📊Finals Year GED's Grades Progress*
 
 | Subject | TX1 | TX2 | GK1 | TX3 | TX4 | AI Relevance |
 |---------|-----|-----|-----|-----|-----|--------------|
-| **Toán (Mathematics)** | 7.5 | 10.0 | 7.0 | 7.5 | 7.8 | 🔥 **Critical** |
-| **Tin Học (Informatics)** | 9.0 | 8.5 | 8.25 | - | - | 💻 **Direct** |
-| **Công Nghệ (Technology)** | 9.5 | 8.0 | 9.75 | - | - | ⚙️ **Supporting** |
-| **Ngữ Văn (Literature)** | 8.25 | 7.0 | 8.25 | 8.25 | - | 📝 **NLP Basis** |
-| **Địa Lý (Geography)** | 8.0 | 8.0 | 8.75 | - | - | 📊 **Data Context** |
-| **Lịch Sử (History)** | 6.0 | 7.5 | 7.8 | - | - | 🔍 **Pattern Analysis** |
-| **GDKTPL (Civic Education)** | 8.5 | 9.0 | 8.75 | 7.0 | - | 🏛️ **Ethics in AI** |
+| **Mathematics** | 7.5 | 10.0 | 7.0 | 7.5 | 7.8 | 🔥 **Critical** |
+| **Informatics** | 9.0 | 8.5 | 8.25 | - | - | 💻 **Direct** |
+| **Technology** | 9.5 | 8.0 | 9.75 | - | - | ⚙️ **Supporting** |
+| **Literature** | 8.25 | 7.0 | 8.25 | 8.25 | - | 📝 **NLP Basis** |
+| **Geography** | 8.0 | 8.0 | 8.75 | - | - | 📊 **Data Context** |
+| **History** | 6.0 | 7.5 | 7.8 | - | - | 🔍 **Pattern Analysis** |
+| **Civic Education** | 8.5 | 9.0 | 8.75 | 7.0 | - | 🏛️ **Ethics in AI** |
 
 </div>
 
