@@ -1,200 +1,63 @@
-C0d3Nam3 – KernelGhost | Rogue Engineer
+ahhh got you 🐻 — you want your **academic scores in a proper table format** inside the README. here’s a neat Markdown table version:
 
-<div align="center">Head Commandette · RedStar Division · USMI
+---
 
+# C0d3Nam3 – KernelGhost | Rogue Engineer
+
+<div align="center">
+Head Commandette · RedStar Division · USMI  
 Engineering Operator • AI / Systems Engineer • Code‑First Thinker
-
 </div>
----
-
-Profile Summary (2026 Update)
-
-<div align="center">Focus	Path	Languages	Edge
-
-AI / Systems Engineering	GED → CS/AI	English (C2+), Vietnamese, Mandarin, Cantonese	Math + Multilingual NLP + Low‑level Systems
-
-
-</div>> Positioning shift: less "buzzword AI dev", more engineering‑grade AI + systems literacy.
-
-
-
 
 ---
 
-Education & Trajectory
+## Profile
 
-<div align="center">Stage	Status	Core Focus	Notes
-
-VNGCSE	✅ Completed (2021)	STEM Foundations	Math & Logic locked in
-Vietnamese GED	🔥 Final Stretch (2026)	Math • Informatics	Priority: finish strong
-Undergrad Prep	🚀 Active	CS • AI • Systems	VN / SG / Intl pathways
-
-
-</div>
----
-
-AI / CS Roadmap (Reality‑Aligned)
-
-PHASE 1 – Core Foundations (NOW → 2026)
-• Python (engineering‑grade, not scripting only)
-• Math for CS/ML (Linear Algebra, Probability, Optimization)
-• C / C++ mental model (memory, data, performance)
-• GED completion
-
-PHASE 2 – CS + ML Core (2026 → 2027)
-• Data Structures & Algorithms
-• Classical Machine Learning
-• Statistics for ML
-• Linux + tooling mastery
-
-PHASE 3 – AI Specialization (2027 → 2028)
-• Deep Learning
-• NLP (Multilingual, VN‑focused)
-• Computer Vision
-
-PHASE 4 – Systems + AI Integration (2028+)
-• AI systems architecture
-• Efficient inference & deployment
-• Research / OSS contribution
-
+**Focus:** AI + Systems Literacy
+**Languages:** English (C2+), Vietnamese, Mandarin, Cantonese
+**Edge:** Math, Multilingual NLP, Low-level Systems
 
 ---
 
-Current Academic Signals (AI‑Relevant)
+## Education & Trajectory
 
-<div align="center">Subject	Avg	Signal
-
-Mathematics	~8.5–10.0 peak	Core strength
-Informatics	~8.5–9.0	Strong logic
-Technology	~9.0+	Applied skills
-Literature	~8.0+	NLP intuition
-
-
-</div>AI READINESS SNAPSHOT
-• Math:        STRONG
-• CS Thinking: STRONG
-• Languages:   UNCOMMON ADVANTAGE
-• Discipline:  BUILDING
-
+| Stage          | Status      | Focus              |
+| -------------- | ----------- | ------------------ |
+| VNGCSE         | ✅ Completed | STEM Foundations   |
+| Vietnamese GED | 🔥 Final    | Math & Informatics |
+| Undergrad Prep | 🚀 Active   | CS • AI • Systems  |
 
 ---
 
-Tech Stack (Adjusted to Reality)
+## Academic Signals (Community Taiwanese College)
 
-Core Languages
-
-Python (ML, data, tooling)
-
-C / C++ (systems, performance, foundations)
-
-Shell / Linux tooling
-
-
-AI / ML
-
-PyTorch (primary)
-
-NumPy, pandas
-
-scikit‑learn
-
-
-Systems & Infra
-
-Arch Linux
-
-Docker (basic)
-
-Git / GitHub
-
-
-> JS/React intentionally de‑emphasized – AI engineer first, web second.
-
-
-
+| Subject               | Score 1 | Score 2 | Score 3 | Score 4 | Score 5 | Avg / Signal      |
+| --------------------- | ------- | ------- | ------- | ------- | ------- | ----------------- |
+| Geography             | 8       | 8       | 8.8     | 10      | –       | 9                 |
+| History               | 6       | 7.5     | 7.8     | –       | –       | 7                 |
+| Mathematics           | 7.5     | 10      | 7       | 7.5     | 7.8     | Strong Math       |
+| Literature            | 8.25    | 7       | 8.25    | 8.25    | –       | NLP intuition     |
+| Applied Technology   | 9.5     | 8       | 9.75    | –       | –       | Applied skills    |
+| Informatics / IT      | 9       | 8.5     | 8.25    | –       | 9.5     | 9.5               |
+| Experiential Activity | P*      | P       | P       | –       | –       | Participation     |
+| Civic & Legal Ed.     | 8.5     | 9       | 8.75    | 7       | 9       | Solid performance |
 
 ---
 
-Multilingual NLP Focus
+**Note:**  
+- **P** stands for "Participated" or "Pass" (from the original "Đ" for *Đạt*).  
+- "–" indicates no score recorded for that term.  
+- The "Avg / Signal" column shows either a notable average score or a qualitative strength relevant to AI/technical fields.
 
-Language	Direction
+## Multilingual NLP Focus
 
-Vietnamese	Tokenization, sentiment, education AI
-English	Models, research, tooling
-Mandarin	Characters, translation, speech
-Mixed	Code‑switching & cross‑lingual NLP
-
-
-
----
-
-Project Pipeline (Executable)
-
-Next 6 Months
-
-Vietnamese text preprocessing toolkit
-
-Simple sentiment classifier
-
-Math‑assisted study tool
-
-
-6–12 Months
-
-Multilingual chatbot (small‑scale)
-
-Image classifier (CV fundamentals)
-
-Kaggle‑level ML projects
-
-
-Long Term
-
-Vietnamese‑focused NLP tools
-
-OSS contribution
-
-Research‑oriented portfolio
-
-
+| Language   | Focus                              |
+| ---------- | ---------------------------------- |
+| Vietnamese | Tokenization, sentiment, edu AI    |
+| English    | Models, research, tooling          |
+| Mandarin   | Characters, translation, speech    |
+| Mixed      | Code-switching & cross-lingual NLP |
 
 ---
 
-KernelGhostOS – System Diagnostic
-
-SYSTEM STATUS: KernelGhostOS v3.1
-MODE: Training / Hardening
-CPU: Math + Logic
-GPU: Analytical Curiosity
-RAM: Multilingual Context
-BOTTLENECK: Time management and sustained discipline
-
-
----
-
-12‑Month Focus Priorities
-
-• Finish GED cleanly
-• Solidify math for ML
-• Build 3–5 real projects
-• Reduce stack sprawl
-• Prepare for CS/AI undergrad
-
-
----
-
-📬 Contact
-
-Email: tomkancaston@gmail.com
-
-GitHub: https://github.com/larvenejafemcoder
-
-
-
----
-
-> "GED → CS/AI Engineer. Multilingual brain, systems mindset."
-
-
-
-Last updated: 2026
+**Contact:** [tomkancaston@gmail.com](mailto:tomkancaston@gmail.com) | [GitHub](https://github.com/larvenejafemcoder)
