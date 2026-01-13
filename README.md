@@ -17,8 +17,6 @@ Engineering Operator • AI / Systems Engineer • Code‑First Thinker
 | Vietnamese GED | 🔥 Final    | Math & Informatics |
 | Undergrad Prep | 🚀 Active   | CS • AI • Systems  |
 
----
-
 ## Academic Signals (Community Taiwanese College)
 
 | Subject      | CA1 | CA2 | Midterm | CA3 | CA4 | Final | Performance Assessment |
