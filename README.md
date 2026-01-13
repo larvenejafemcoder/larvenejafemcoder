@@ -1,6 +1,4 @@
-ahhh got you 🐻 — you want your **academic scores in a proper table format** inside the README. here’s a neat Markdown table version:
 
----
 
 # C0d3Nam3 – KernelGhost | Rogue Engineer
 
@@ -8,14 +6,6 @@ ahhh got you 🐻 — you want your **academic scores in a proper table format**
 Head Commandette · RedStar Division · USMI  
 Engineering Operator • AI / Systems Engineer • Code‑First Thinker
 </div>
-
----
-
-## Profile
-
-**Focus:** AI + Systems Literacy
-**Languages:** English (C2+), Vietnamese, Mandarin, Cantonese
-**Edge:** Math, Multilingual NLP, Low-level Systems
 
 ---
 
@@ -44,19 +34,15 @@ Engineering Operator • AI / Systems Engineer • Code‑First Thinker
 
 ---
 
-**Note:**  
-- **P** stands for "Participated" or "Pass" (from the original "Đ" for *Đạt*).  
-- "–" indicates no score recorded for that term.  
-- The "Avg / Signal" column shows either a notable average score or a qualitative strength relevant to AI/technical fields.
-
 ## Multilingual NLP Focus
 
 | Language   | Focus                              |
 | ---------- | ---------------------------------- |
-| Vietnamese | Tokenization, sentiment, edu AI    |
-| English    | Models, research, tooling          |
-| Mandarin   | Characters, translation, speech    |
-| Mixed      | Code-switching & cross-lingual NLP |
+| Vietnamese |![Vietnamese](https://img.shields.io/badge/Vietnamese-Native-red?style=for-the-badge)|
+| English    |![English](https://img.shields.io/badge/English-C2%2B-blue?style=for-the-badge)|
+| Cantonese  | ![Cantonese](https://img.shields.io/badge/Cantonese-Active_Study-darkred?style=for-the-badge)|
+| Mandarin   |![Mandarin](https://img.shields.io/badge/Mandarin-HSK_Path-gold?style=for-the-badge) |
+| Mixed      |![NLP](https://img.shields.io/badge/NLP-Cross--Lingual-4B0082?style=for-the-badge)|
 
 ---
 
