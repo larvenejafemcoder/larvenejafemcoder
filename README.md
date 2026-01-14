@@ -29,7 +29,7 @@ Here's the updated table with an "AVG" column added next to the "Final" column:
 | Literature   | 8.25| 7   | 8.25    | 8.25|     |       | 7.94*| Stable, reliable       |
 | Technology   | 9.5 | 8   | 9.75    |     |     | 8.75  | 9.00*| Excellent practical    |
 | Informatics  | 9   | 8.5 | 8.25    |     |     | 9.5   | 8.81*| Very strong applied    |
-| Experiential | P   | P   | P       |     |     |       | N/A  | Actively participated  |
+| Experiential | P   | P   | P       |  p   |   p  |     p  | N/A  | Actively participated  |
 | Civics       | 8.5 | 9   | 8.75    | 7.5 | 9   | 7     | 8.29*| Good understanding     |
 ---
 
