@@ -28,7 +28,7 @@ Engineering Operator • AI / Systems Engineer • Code‑First Thinker
 | Technology   | 9.5 | 8   | 9.75    |     |     | 8.75  | Excellent practical    |
 | Informatics  | 9   | 8.5 | 8.25    |     |     | 9.5   | Very strong applied    |
 | Experiential | P   | P   | P       |     |     |       | Actively participated  |
-| Civics       | 8.5 | 9   | 8.75    | 7.5 | 9   |       | Good understanding     |
+| Civics       | 8.5 | 9   | 8.75    | 7.5 | 9   |  7    | Good understanding     |
 
 ---
 
