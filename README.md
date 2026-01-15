@@ -25,7 +25,7 @@ Here's the updated table with an "AVG" column added next to the "Final" column:
 |--------------|-----|-----|---------|-----|-----|-------|------|------------------------|
 | Geography    | 8   | 8   | 8.8     | 10  |     | 9     | 8.76*| Strong, consistent     |
 | History      | 6   | 7.5 | 7.8     | 10  | 10  | 8     | 8.1*| Clear improvement      |
-| Mathematics  | 7.5 | 10  | 7       | 7.5 | 7.8 |       | 7.96*| Inconsistent, capable  |
+| Mathematics  | 7.5 | 10  | 7       | 7.5 | 7.8 | 8     | 7.96*| Inconsistent, capable  |
 | Literature   | 8.25| 7   | 8.25    | 8.25|     |       | 7.94*| Stable, reliable       |
 | Technology   | 9.5 | 8   | 9.75    |     |     | 8.75  | 9.00*| Excellent practical    |
 | Informatics  | 9   | 8.5 | 8.25    |     |     | 9.5   | 8.81*| Very strong applied    |
