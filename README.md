@@ -19,8 +19,6 @@ Engineering Operator • AI / Systems Engineer • Code‑First Thinker
 
 ## Academic Signals (Community Taiwanese College)
 
-Here's the updated table with an "AVG" column added next to the "Final" column:
-
 | Subject   | CA1   | CA2   | Mid1 | CA3   | CA4   | Final1 | Average |
 |-----------|-------|-------|------|-------|-------|--------|---------|
 | Geography | 8     | 8     | 8.8  | 10    |       | 9      | 8.8     |
@@ -28,7 +26,7 @@ Here's the updated table with an "AVG" column added next to the "Final" column:
 | Math      | 10    | 9     | 7    | 8     | 8     | 8      | 8.1     |
 | Literature| 8     | 8.5   | 8.5  | 7     | 8     | 6.3    | 7.5     |
 | Technology| 9.5   | 8     | 9.8  |       |       | 8.75   | 9.0     |
-| Informatics| 9    | 8.5   | 8.3  | 10    |       | 9.5    | 9.0     |
+| Informatics| 9    | 8.5   | 8.3  | 10    |       | 9.5    | 9.1     |
 | Experiential| P   | P     | P    | P     | P     | P      | P       |
 | Civic Edu.| 8.5   | 9     | 8.75 | 7.5   | 9     | 7      | 8.0     |
 ---
