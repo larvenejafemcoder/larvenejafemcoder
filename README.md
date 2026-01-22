@@ -21,16 +21,16 @@ Engineering Operator • AI / Systems Engineer • Code‑First Thinker
 
 Here's the updated table with an "AVG" column added next to the "Final" column:
 
-| Subject      | CA1 | CA2 | Midterm | CA3 | CA4 | Final | AVG  | Performance Assessment |
-|--------------|-----|-----|---------|-----|-----|-------|------|------------------------|
-| Geography    | 8   | 8   | 8.8     | 10  |     | 9     | 8.76*| Strong, consistent     |
-| History      | 6   | 7.5 | 7.8     | 10  | 10  | 8     | 8.1*| Clear improvement      |
-| Mathematics  | 7.5 | 10  | 7       | 7.5 | 7.8 | 8     | 7.96*| Inconsistent, capable  |
-| Literature   | 8.25| 7   | 8.25    | 8.25|     |       | 7.94*| Stable, reliable       |
-| Technology   | 9.5 | 8   | 9.75    |     |     | 8.75  | 9.00*| Excellent practical    |
-| Informatics  | 9   | 8.5 | 8.25    |     |     | 9.5   | 8.81*| Very strong applied    |
-| Experiential | P   | P   | P       |  p   |   p  |     p  | N/A  | Actively participated  |
-| Civics       | 8.5 | 9   | 8.75    | 7.5 | 9   | 7     | 8.29*| Good understanding     |
+| Subject   | CA1   | CA2   | Mid1 | CA3   | CA4   | Final1 | Average |
+|-----------|-------|-------|------|-------|-------|--------|---------|
+| Geography | 8     | 8     | 8.8  | 10    |       | 9      | 8.8     |
+| History   | 6     | 7.5   | 7.8  | 10    | 10    | 8      | 8.0     |
+| Math      | 10    | 9     | 7    | 8     | 8     | 8      | 8.1     |
+| Literature| 8     | 8.5   | 8.5  | 7     | 8     | 6.3    | 7.5     |
+| Technology| 9.5   | 8     | 9.8  |       |       | 8.75   | 9.0     |
+| Informatics| 9    | 8.5   | 8.3  | 10    |       | 9.5    | 9.0     |
+| Experiential| P   | P     | P    | P     | P     | P      | P       |
+| Civic Edu.| 8.5   | 9     | 8.75 | 7.5   | 9     | 7      | 8.0     |
 ---
 
 ## Multilingual NLP Focus
