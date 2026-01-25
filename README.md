@@ -44,3 +44,4 @@ Engineering Operator • AI / Systems Engineer • Code‑First Thinker
 ---
 
 **Contact:** [tomkancaston@gmail.com](mailto:tomkancaston@gmail.com) | [GitHub](https://github.com/larvenejafemcoder)
+![larvenejafemcoder's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=larvenejafemcoder&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
