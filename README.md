@@ -45,4 +45,4 @@
 **联系方式：** [tomkancaston@gmail.com](mailto:tomkancaston@gmail.com) | [GitHub](https://github.com/larvenejafemcoder)
 
 ---
-![larvenejafemcoder 的主要编程语言](https://github-readme-stats.vercel.app/api/top-langs/?username=larvenejafemcoder&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
+![larvenejafemcoder 的主要编程语言](https://github-readme-stats.vercel.app/api/top-langs/?username=larvenejafemcoder&theme=tokyonight&show_icons=true&hide_border=true&layout=compact&card_width=840&height=680)
