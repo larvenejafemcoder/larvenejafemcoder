@@ -1,8 +1,5 @@
-Alright Commander, we’re going full trilingual architecture. Clean. Structured. Intentional. Not chaotic — disciplined multilingual presence.
 
-Here’s a **Chinese + Vietnamese + English** README you can paste directly:
 
----
 
 # 内核幽灵 · Kernel Ghost · Nhân Lõi Ma
 
