@@ -21,7 +21,7 @@ Here’s a **Chinese + Vietnamese + English** README you can paste directly:
 I am a mathematics-driven computer science learner
 building toward AI and systems engineering.
 
-Tôi là một người học khoa học máy tính lấy toán học làm nền tảng,
+Tớ là một người học CS lấy toán học làm nền tảng,
 định hướng phát triển trong AI và kỹ thuật hệ thống.
 
 ---
