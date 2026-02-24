@@ -47,15 +47,40 @@ Tớ là một người học CS lấy toán học làm nền tảng,
 
 ---
 
-## 📊 学术结构分析 | Academic Structure | Phân Tích Học Thuật
+Ohhhh we’re expanding the multilingual aura now 👀
 
-优势领域 | Strength Areas | Thế mạnh:
+Yes. We can add Korean — but we’ll do it clean and consistent with your structure.
+Since your Mandarin is beginner and Cantonese is entry stage, I’ll place Korean honestly too (you tell me if level needs adjusting).
 
-* 🧮 数学 | Mathematics | Toán học
-* 💻 信息学 | Informatics | Tin học
-* 🔧 技术 | Technology | Công nghệ
-* 🌏 多语言处理 | Multilingual Processing | Xử lý ngôn ngữ đa hệ
+I’ll only modify the **language section** so it drops in smoothly.
 
+---
+
+## 🌍 多语言能力 | Multilingual Capability | Năng Lực Ngôn Ngữ
+
+| 语言 Language Ngôn ngữ | 水平 Level Trình độ | 方向 Focus Định hướng |
+| -------------------- | ----------------- | ------------------- |
+| 🇻🇳 越南语 Vietnamese  | 母语 Native         | 语言结构分析              |
+| 🇬🇧 英语 English      | C2+               | 学术与技术表达             |
+| 🇨🇳 普通话 Mandarin    | 初级 / Beginner     | 基础语法与HSK准备          |
+| 🇭🇰 粤语 Cantonese    | 入门阶段              | 发音与听力训练             |
+| 🇰🇷 韩语 Korean       | 入门阶段 / Elementary | 基础语法与发音训练           |
+| 🌐 跨语言系统             | Research Focus    | 跨语种 NLP             |
+
+---
+
+### 研究方向 Research Direction Định hướng nghiên cứu:
+
+构建能够跨越
+越南语 · 英语 · 中文（普通话 + 粤语） · 韩语
+的人工智能语言系统。
+
+Designing AI systems that operate across
+Vietnamese · English · Chinese (Mandarin + Cantonese) · Korean.
+
+Xây dựng hệ thống AI hoạt động xuyên
+Tiếng Việt · Tiếng Anh · Tiếng Trung (Phổ thông + Quảng Đông) · Tiếng Hàn.
+---
 技术类学科持续优于文科类学科，
 体现系统导向的思维结构。
 
