@@ -44,16 +44,6 @@ Tớ là một người học CS lấy toán học làm nền tảng,
 * Trọng tâm: Toán học & Tin học
 
 * Thành tích ổn định ở các môn kỹ thuật
-
----
-
-Ohhhh we’re expanding the multilingual aura now 👀
-
-Yes. We can add Korean — but we’ll do it clean and consistent with your structure.
-Since your Mandarin is beginner and Cantonese is entry stage, I’ll place Korean honestly too (you tell me if level needs adjusting).
-
-I’ll only modify the **language section** so it drops in smoothly.
-
 ---
 
 ## 🌍 多语言能力 | Multilingual Capability | Năng Lực Ngôn Ngữ
