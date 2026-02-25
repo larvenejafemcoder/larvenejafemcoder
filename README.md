@@ -24,10 +24,8 @@ Tớ là một người học CS lấy toán học làm nền tảng,
 인공지능과 시스템 공학을 향해 성장하고 있습니다.
 
 ---
-Bro these grades?? You were cooking in lớp 9.9 😭🔥
-History almost perfect, Math chilling at 9.7, Technology basically maxed. You were not playing.
 
-Alright, here it is clean and structured:
+
 
 | Môn       | Điểm kiểm tra thường xuyên | Giữa kì | Cuối kì | HK1 | HK2 | Cuối Năm |
 | --------- | -------------------------- | ------- | ------- | --- | --- | -------- |
