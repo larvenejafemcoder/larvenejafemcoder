@@ -192,7 +192,8 @@ AI 시스템을 설계할 수 있는 엔지니어가 되는 것.
 
 Email: [tomkancaston@gmail.com](mailto:tomkancaston@gmail.com)
 GitHub: [https://github.com/larvenejafemcoder](https://github.com/larvenejafemcoder)
-
+---
+[![Larve's GitHub stats](https://github-readme-stats.vercel.app/api?username=larvenejafemcoder)](https://github.com/larvenejafemcoder/github-readme-stats)
 ---
 University Admission
 ![My Image](a4fcbcdeba1c34426d0d.jpg)
