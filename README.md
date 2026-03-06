@@ -52,4 +52,4 @@ Email: [tomkancaston@gmail.com](mailto:tomkancaston@gmail.com)
 GitHub: [https://github.com/larvenejafemcoder](https://github.com/larvenejafemcoder)
 ---
 University Admission
-![My Image](a4fcbcdeba1c34426d0d.jpg)
+![My Image](admission.png)
