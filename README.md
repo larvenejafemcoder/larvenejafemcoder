@@ -3,6 +3,8 @@
 
 ## 🇰🇵 RedStar North Korean Head Marine
 
+### Redstar Division of A315, head marine, codename K3rn3lGh0st, Librety of Juche
+
 ---
 ## VNGSCE (Ended in 2021)
 | Môn       | Điểm kiểm tra thường xuyên | Giữa kì | Cuối kì | HK1 | HK2 | Cuối Năm |
