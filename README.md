@@ -1,4 +1,4 @@
-**Nguyễn Ngọc Gia Khang**
+# **Nguyễn Ngọc Gia Khang**
 <img src="avatar.jpg" width="120" height="180" alt="Avatar">
 
 ---
