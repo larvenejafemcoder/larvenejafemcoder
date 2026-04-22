@@ -1,9 +1,63 @@
+**Nguyễn Ngọc Gia Khang** || ![My Image](avatar.jpg)
+📍 Phan Thiet, Vietnam
+📧 [tomkancaston@gmail.com] | 💻 GitHub: [github.com/larvenejafemcoder]
 
-# Commander Kernel Ghost - Space Marine Intelligence (USMI)
+---
 
-## 🇰🇵 RedStar North Korean Head Marine
+### **Objective**
 
-### Redstar Division of A315, head marine, codename K3rn3lGh0st, Librety of Juche
+Aspiring software developer with hands-on experience building web and system-based applications. Strong foundation in multiple programming languages and Linux environments. Seeking an internship or entry-level role in IT or software development.
+
+---
+
+### **Skills**
+
+* **Languages:** C++, Python, C#, Java, JavaScript, TypeScript
+* **Web Development:** HTML, CSS, JavaScript
+* **Tools:** Visual Studio, Visual Studio Code, Git
+* **Platforms:** Linux (5+ years), Windows
+* **Concepts:** Object-Oriented Programming, debugging, scripting, basic system design
+
+---
+
+### **Projects**
+
+**VietCoffee — Café Management System & Web Platform**
+
+* Developed a local system and web application to support café operations and online interaction
+* Implemented product listing, order handling, and basic sales workflow
+* Designed for both offline (local) and web-based usage
+* Focused on usability and real-world business functionality
+
+**PhenomenalaTuyenSinh247 — Vocabulary & University Info Web App**
+
+* Built a JavaScript web application for vocabulary learning and university admission updates
+* Implemented content organization and progress tracking features
+* Designed dynamic system to keep information up to date
+* Currently developing a scholarship search feature
+
+---
+
+### **Education**
+
+* **GED (General Educational Development)** — In Progress
+* **GCSE Completed**
+
+---
+
+### **Languages**
+
+* Vietnamese — Native
+* English — B1 Level (Certified)
+
+---
+
+### **Additional**
+
+* 5+ years experience using Linux environments
+* Self-taught developer with strong independent learning ability
+* Interested in systems programming, web development, and cybersecurity
+
 
 ---
 ## VNGSCE (Ended in 2021)
@@ -35,16 +89,6 @@
 | GDQP       | 10 | 10   | 10  | 10 | 9   | 7    | 8   |
 ---
 
-## 🌍 多语言能力 | Multilingual Capability | Năng Lực Ngôn Ngữ | 다언어 능력
-
-| 语言 Language Ngôn ngữ | 水平 Level Trình độ | 方向 Focus Định hướng |
-| -------------------- | ----------------- | ------------------- |
-| 🇻🇳 越南语 Vietnamese  | 母语 Native         | 语言结构分析              |
-| 🇬🇧 英语 English      | C2+               | 学术与技术表达             |
-| 🇨🇳 普通话 Mandarin    | 初级 / Beginner     | 基础语法与HSK准备          |
-| 🇭🇰 粤语 Cantonese    | 入门阶段              | 发音与听力训练             |
-| 🇰🇷 韩语 Korean       | 入门阶段 / Elementary | 基础语法与发音训练           |
-| 🌐 跨语言系统             | Research Focus    | 跨语种 NLP             |
 
 ---
 
