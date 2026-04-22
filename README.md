@@ -1,4 +1,7 @@
 # **Nguyễn Ngọc Gia Khang**
+## **Ruan Yu Jia Kang**
+## **Tom Kan Caston**
+## **The KernelSpectre**
 <img src="avatar.jpg" width="120" height="180" alt="Avatar">
 
 ---
