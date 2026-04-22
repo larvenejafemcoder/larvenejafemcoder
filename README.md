@@ -1,5 +1,5 @@
-**Nguyễn Ngọc Gia Khang** || <img src="avatar.jpg" width="120" height="180" alt="Avatar">
-📍 Phan Thiet, Vietnam
+**Nguyễn Ngọc Gia Khang**
+<img src="avatar.jpg" width="120" height="180" alt="Avatar">
 📧 [tomkancaston@gmail.com] | 💻 GitHub: [github.com/larvenejafemcoder]
 
 ---
