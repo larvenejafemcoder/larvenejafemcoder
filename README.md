@@ -1,100 +1,145 @@
+# 🇩🇪 Deutsche Version
+
 # **Nguyễn Ngọc Gia Khang**
-## **-Ruan Yu Jia Kang**
-## **-Tom Schidmst Müller-**
----
 
-### **Objective**
+## **– Ruan Yu Jia Kang –**
 
-Aspiring software developer with hands-on experience building web and system-based applications. Strong foundation in multiple programming languages and Linux environments. Seeking an internship or entry-level role in IT or software development.
+## **– Tom Schidmst Müller –**
 
 ---
 
-### **Skills**
+### **Berufliches Ziel**
 
-* **Languages:** C++, Python, C#, Java, JavaScript, TypeScript
-* **Web Development:** HTML, CSS, JavaScript
-* **Tools:** Visual Studio, Visual Studio Code, Git
-* **Platforms:** Linux (5+ years), Windows
-* **Concepts:** Object-Oriented Programming, debugging, scripting, basic system design
+Angehender Softwareentwickler mit praktischer Erfahrung in der Entwicklung von Web- und Systemanwendungen. Solide Grundlagen in mehreren Programmiersprachen sowie Linux-Umgebungen. Auf der Suche nach einem Praktikum oder einer Einstiegsposition im Bereich IT oder Softwareentwicklung.
 
 ---
 
-### **Projects**
+### **Fähigkeiten**
 
-**VietCoffee — Café Management System & Web Platform**
-
-* Developed a local system and web application to support café operations and online interaction
-* Implemented product listing, order handling, and basic sales workflow
-* Designed for both offline (local) and web-based usage
-* Focused on usability and real-world business functionality
-
-**PhenomenalaTuyenSinh247 — Vocabulary & University Info Web App**
-
-* Built a JavaScript web application for vocabulary learning and university admission updates
-* Implemented content organization and progress tracking features
-* Designed dynamic system to keep information up to date
-* Currently developing a scholarship search feature
+* **Programmiersprachen:** C++, Python, C#, Java, JavaScript, TypeScript
+* **Webentwicklung:** HTML, CSS, JavaScript
+* **Werkzeuge:** Visual Studio, Visual Studio Code, Git
+* **Plattformen:** Linux (über 5 Jahre Erfahrung), Windows
+* **Konzepte:** Objektorientierte Programmierung, Debugging, Scripting, grundlegendes Systemdesign
 
 ---
 
-### **Education**
+### **Projekte**
 
-* **GED (General Educational Development)** — In Progress
-* **GCSE Completed**
+#### **VietCoffee — Café-Managementsystem & Webplattform**
 
----
+* Entwicklung eines lokalen Systems und einer Webanwendung zur Unterstützung von Café-Abläufen und Online-Interaktionen
+* Implementierung von Produktlisten, Bestellverwaltung und grundlegenden Verkaufsprozessen
+* Konzipiert für lokale Offline-Nutzung sowie webbasierte Anwendungen
+* Fokus auf Benutzerfreundlichkeit und reale Geschäftsanforderungen
 
-### **Languages**
+#### **PhenomenalaTuyenSinh247 — Vokabel- & Universitätsinformationsplattform**
 
-* Vietnamese — Native
-* English — B1 Level (Certified)
-
----
-
-### **Additional**
-
-* 5+ years experience using Linux environments
-* Self-taught developer with strong independent learning ability
-* Interested in systems programming, web development, and cybersecurity
-
-
----
-## VNGSCE (Ended in 2021)
-| Môn       | Điểm kiểm tra thường xuyên | Giữa kì | Cuối kì | HK1 | HK2 | Cuối Năm |
-| --------- | -------------------------- | ------- | ------- | --- | --- | -------- |
-| Toán      | 9, 10, 10, 9               | 10      | 9.8     | 9.6 | 9.7 | 9.7      |
-| Vật lí    | 10, 8, 9                   | 9.5     | 9.3     | 7.9 | 9.2 | 8.8      |
-| Hoá học   | 8, 10, 10                  | 9.3     | 9.8     | 9.4 | 9.5 | 9.5      |
-| Sinh học  | 9, 8, 10                   | 9.3     | 9.5     | 8.4 | 9.3 | 9.5      |
-| Ngữ văn   | 8, 8, 9, 9                 | 7       | 8.5     | 7.9 | 8.2 | 8.1      |
-| Lịch sử   | 9, 9, 10                   | 9.8     | 10      | 9.7 | 9.7 | 9.7      |
-| Địa Lí    | 9, 10, 9                   | 8       | 9.5     | 9.6 | 9.1 | 9.3      |
-| Ngoại ngữ | 10, 9, 9                   | 9.5     | 8.8     | 9.9 | 9.2 | 9.4      |
-| GDCD      | 7, 9                       | 8.5     | 10      | 9.7 | 9.0 | 9.2      |
-| Công nghệ | 10, 9                      | 10      | 10      | 9.6 | 9.9 | 9.8      |
-
----
-## ONGOING GED (2025-2026)
-| Môn        | TX1 | TX2 | GK1 | TX3 | TX4 | CK1  | TBM |
-|------------|-----|-----|-----|-----|-----|------|-----|
-| Địa        | 8   | 8   | 8.8 | 10  |     | 9    | 8.8 |
-| Sử         | 6   | 7.5 | 7.8 | 10  | 10  | 8    | 8   |
-| Toán       | 10  | 9   | 7   | 8   | 8   | 8    | 8.1 |
-| Văn        | 8   | 8.5 | 8.5 | 7   | 8   | 6.3  | 7.5 |
-| Công Nghệ  | 9.5 | 8   | 9.8 |     |     | 8.75 | 9   |
-| Tin        | 9   | 8.5 | 8.3 | 10  |     | 9.5  | 9.1 |
-| HĐTN       | Đ   | Đ   | Đ   | Đ   | Đ   | Đ    | Đ   |
-| GDKTPL     | 8.5 | 9   | 8.75| 7.5 | 9   | 7    | 8   |
-| GDQP       | 10 | 10   | 10  | 10 | 9   | 7    | 8   |
----
-
+* Entwicklung einer JavaScript-Webanwendung für Vokabellernen und Universitätszulassungsinformationen
+* Implementierung von Inhaltsorganisation und Fortschrittsverfolgung
+* Dynamisches System zur Aktualisierung von Informationen entwickelt
+* Derzeit in Entwicklung: Stipendiensuchfunktion
 
 ---
 
-## 📫 联系方式 | Contact | Liên Hệ | 연락처
+### **Ausbildung**
+
+* **GED (General Educational Development)** — Derzeit in Bearbeitung
+* **GCSE abgeschlossen**
+
+---
+
+### **Sprachen**
+
+* Vietnamesisch — Muttersprache
+* Englisch — Niveau B1 (zertifiziert)
+
+---
+
+### **Zusätzliche Informationen**
+
+* Über 5 Jahre Erfahrung mit Linux-Systemen
+* Autodidaktischer Entwickler mit starker Fähigkeit zum selbstständigen Lernen
+* Interesse an Systemprogrammierung, Webentwicklung und Cybersicherheit
+
+---
+
+## 📫 Kontakt
 
 Email: [tomkancaston@gmail.com](mailto:tomkancaston@gmail.com)
-GitHub: [https://github.com/larvenejafemcoder](https://github.com/larvenejafemcoder)
+GitHub: [larvenejafemcoder GitHub](https://github.com/larvenejafemcoder?utm_source=chatgpt.com)
+
 ---
-University Admission
-![My Image](admission.png)
+
+# 🇯🇵 日本語版
+
+# **Nguyễn Ngọc Gia Khang**
+
+## **－ Ruan Yu Jia Kang －**
+
+## **－ Tom Schidmst Müller －**
+
+---
+
+### **目標**
+
+Webアプリケーションおよびシステム開発の実務経験を持つソフトウェア開発志望者。複数のプログラミング言語とLinux環境に関する基礎知識を有する。ITまたはソフトウェア開発分野でのインターンシップ、またはエントリーレベル職を希望。
+
+---
+
+### **スキル**
+
+* **プログラミング言語:** C++, Python, C#, Java, JavaScript, TypeScript
+* **Web開発:** HTML, CSS, JavaScript
+* **ツール:** Visual Studio, Visual Studio Code, Git
+* **プラットフォーム:** Linux（5年以上）, Windows
+* **概念:** オブジェクト指向プログラミング、デバッグ、スクリプト作成、基本的なシステム設計
+
+---
+
+### **プロジェクト**
+
+#### **VietCoffee — カフェ管理システム & Webプラットフォーム**
+
+* カフェ運営およびオンライン対応を支援するローカルシステムとWebアプリを開発
+* 商品一覧、注文処理、基本的な販売フローを実装
+* オフライン環境およびWeb環境の両方に対応
+* 実用性とユーザビリティを重視して設計
+
+#### **PhenomenalaTuyenSinh247 — 単語学習 & 大学情報Webアプリ**
+
+* 単語学習および大学入試情報向けのJavaScript Webアプリを開発
+* コンテンツ整理機能と進捗追跡機能を実装
+* 情報を最新状態に保つための動的システムを設計
+* 現在、奨学金検索機能を開発中
+
+---
+
+### **学歴**
+
+* **GED（General Educational Development）** — 取得中
+* **GCSE 修了**
+
+---
+
+### **言語**
+
+* ベトナム語 — 母国語
+* 英語 — B1レベル（認定済み）
+
+---
+
+### **その他**
+
+* Linux環境を5年以上使用した経験
+* 独学で学習を続ける高い自己学習能力
+* システムプログラミング、Web開発、サイバーセキュリティに興味あり
+
+---
+
+## 📫 連絡先
+
+Email: [tomkancaston@gmail.com](mailto:tomkancaston@gmail.com)
+GitHub: [larvenejafemcoder GitHub](https://github.com/larvenejafemcoder?utm_source=chatgpt.com)
+
+German makes it feel precise and industrial. Japanese makes it feel like a clean minimalist dev portfolio from a Tokyo startup basement café with mechanical keyboard sounds echoing in the distance.
