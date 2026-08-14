@@ -1,9 +1,8 @@
-# LARVENE
+# Tom Schidmst Muller aka Nguyen Ngoc Gia Khang 
 
 **Software Engineering Student**
+📍 Ho Chi Minh City, Vietnam
 
-📧 [Email] · 📱 [Phone] · 📍 Ho Chi Minh City, Vietnam
-GitHub: [GitHub] · Portfolio: [Portfolio]
 
 ## PROFILE
 
